@@ -9,7 +9,7 @@
 *.jpg binary
 
 # Working tree encoding prevents UTF-16 LE chat_ files from appearing as binary (enables git diff)
-resource/*.txt text working-tree-encoding=UTF-16LE
+resource/*.txt text working-tree-encoding=UTF-16LE-BOM
 
 # These filetypes should be recognized as VDF, not ReScript
 *.res linguist-language=vdf
