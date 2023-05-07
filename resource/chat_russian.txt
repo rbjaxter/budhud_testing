@@ -1,0 +1,143 @@
+﻿"lang"
+{
+    "Language"                                                      "Russian"
+
+    "Tokens"
+    {
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        // Russian Translations, by: CriticalFlaw
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        // jayhyunpae changes
+        // Uncomment (remove the //s) after this note to enable
+        // "TF_playerid_mediccharge_wpn"                               "%s1%"
+        // "TF_playerid_mediccharge"                                   "%s1%"
+        // "TF_playerid_object_level"                                  "( Level %s1 )"
+        // "TF_playerid_object_upgrading"                              "%s1"
+        // "TF_playerid_object_upgrading_level"                        "( Level %s1 ) %s2"
+
+        // Chat Changes
+        "chat_say"                                                  "ВСЕ "
+        "chat_say_team"                                             "КОМАНДА "
+        "chat_say_party"                                            "ЛОББИ "
+        "TF_Chat_All"                                               "%s1: %s2"
+        "TF_Chat_AllDead"                                           "*МЕРТВЫЙ* %s1: %s2"
+        "TF_Chat_AllSpec"                                           "(НАБЛЮДАТЕЛЬ) %s1: %s2"
+        "TF_Chat_Team"                                              "(КОМАНДА) %s1: %s2"
+        "TF_Chat_Team_Dead"                                         "*МЕРТВЫЙ* (КОМАНДА) %s1: %s2"
+        "TF_Chat_Spec"                                              "(SPEC) %s1: %s2"
+        "TF_Chat_Coach"                                             "(ТРЕНЕР) %s1: %s2"
+        "TF_Name_Change"                                            "%s1 поменял имя на %s2"
+        "TF_Class_Change"                                           "%s1 поменял имя на %s2"
+
+        // General
+        "bh_Back"                                                   "НАЗАД"
+        "bh_Next"                                                   "СЛЕД."
+        "bh_Close"                                                  "ЗАКРЫТЬ"
+        "bh_Cancel"                                                 "ОТМЕНА"
+        "bh_OpenBP"                                                 "РЮКЗАК"
+        "bh_Continue"                                               "ПРОДОЛЖИТЬ"
+        "bh_Previous"                                               "ПРЕД."
+        "bh_LowMetal"                                               "МАЛО МЕТАЛА"
+        "bh_SetStyle"                                               "СТИЛЬ"
+        "bh_CreateParty"                                            "СОЗДАТЬ ЛОББИ"
+        "bh_Confirm"                                                "CONFIRM"
+
+        // Quick Keys
+        "bh_Back_QK"                                                "НАЗАД (&Q)"
+        "bh_Skip_QK"                                                "ПРОПУСТИТЬ (&E)"
+        "bh_Close_QK"                                               "ЗАКРЫТЬ (&Q)"
+        "bh_Arena_Fight_QK"                                         "В БОЙ! (&1)"
+        "bh_OpenBP_QK"                                              "РЮКЗАК (&Q)"
+        "bh_Checkout_QK"                                            "ОПЛАТА (&E)"
+        "bh_Continue_QK"                                            "ПРОДОЛЖИТЬ (&E)"
+        "bh_Arena_Spectate_QK"                                      "НАБЛЮДАТЬ (&2)"
+        "bh_Previous_QK"                                            "ПРЕД. (&A)"
+        "bh_Next_QK"                                                "СЛЕД. (&D)"
+
+        // Main Menu
+        "bh_Backpack"                                               "РЮКЗАК"
+        "bh_Store"                                                  "МАГАЗИН"
+        "bh_Options"                                                "ОПЦИИ"
+        "bh_AdvOptions"                                             "НАСТРОЙКИ"
+        "bh_OpenLink"                                               "ОТКРЫТЬ"
+        "bh_Quit"                                                   "ВЫХОД"
+        "bh_Disconnect"                                             "ПОКИНУТЬ"
+        "bh_VirtualReality"                                         "АКТИВИРОВАТЬ ВР"
+        "bh_MatchmakingStatistics"                                  "СТАТИСТИКИ"
+        "bh_ImproveSkinQuality"                                     "Improve Skin Quality"
+
+        // Main Menu -> charinfoloadoutsubpanel
+        "bh_Trading"                                                "ОБМЕН"
+        "bh_Crafting"                                               "КОВКА"
+
+        // Main Menu -> ExpandableList
+        "bh_CasualEntry"                                            "СВОБОДНАЯ ИГРА"
+        "bh_CompetitiveEntry"                                       "СОРЕВНОВАНИЕ"
+        "bh_MannVsMachineEntry"                                     "МАНН ПРОТИВ МАШИН"
+        "bh_CommunityServersEntry"                                  "СПИСОК СЕРВЕРОВ"
+        "bh_TrainingEntry"                                          "ТРЕНЕРОВКА"
+        "bh_CreateServerEntry"                                      "СОЗДАТЬ СЕРВЕР"
+
+        // Main Menu Tooltips
+        // An english character (or space) is required in front of these tooltips, or else other languages will not appear
+        "bh_PendingAlerts"                                          " УВЕДОМЛЕНИЯ "
+        "bh_TwitchStreams"                                          " TWITCH ТРАНСЛЯЦИИ "
+        "bh_Contracts"                                              " КОНТРАКТЫ "
+        "bh_News"                                                   " НОВОСТИ "
+        "bh_DemoUI"                                                 " ДЕМОUI "
+        "bh_CreateServer"                                           " СОЗДАТЬ СЕРВЕР "
+        "bh_WorkshopContributions"                                  " ВКЛАД В МАСТЕРСКУЮ "
+        "bh_Replays"                                                " ЗАПИСИ "
+        "bh_BeACoach"                                               " СТАТЬ ТРЕНЕРОМ "
+        "bh_Achievements"                                           " ДОСТИЖЕНИЯ "
+        "bh_TrainingMode"                                           " РЕЖИМ ТРЕНИРОВКИ "
+        "bh_Console"                                                " КОНСОЛЬ "
+        "bh_ReportBug"                                              " СООБЩИТЬ ОБ ОШИБКЕ "
+
+        // Mann Co Catalog
+        "bh_ItemWiki"                                               "ВИКИ СТРАНИЦА"
+        "bh_ViewInStore"                                            "ОТКРЫТЬ В МАГАЗИНЕ"
+
+        // Store Panel
+        "bh_TryItOut"                                               "ОПРОБОВАТЬ"
+        "bh_AddToCart"                                              "ДОБАВИТЬ В КОРЗИНУ"
+
+        // Item selection menu (within craft panel, etc)
+        "bh_ValidItems"                                             "ПОДХОДЯЩИЕ ПРЕДМЕТЫ"
+
+        // MvM
+        "bh_MannUp"                                                 "МАННЕВРЫ"
+        "bh_Training"                                               "ТРЕНЕРОВКА"
+        "bh_MvMGuide"                                               "РУКОВОДСТВО"
+        "bh_Currency"                                               "Кредиты"
+        "bh_Remaining"                                              "Осталось"
+
+        // Store
+        "bh_Checkout"                                               "ОПЛАТА"
+        "bh_SteamMarket"                                            "STEAM МАРКЕТ"
+
+        // MOTD
+        "bh_WatchMovie"                                             "СМОТРЕТЬ ФИЛЬМ"
+        "bh_ReplayVideo"                                            "ПЕРЕИГРАТЬ ФИЛЬМ"
+
+        // Team Menu
+        "bh_Random"                                                 "НА УГАД"
+        "bh_Spectate"                                               "НАБЛЮДАТЬ"
+
+        // Vote Menu
+        "bh_CallVote"                                               "НАЧАТЬ ГОЛОСОВАНИЕ"
+
+        // Engineer Menu
+        "bh_LowAmmo"                                                "МАЛО"
+        "bh_Built"                                                  "ПОСТРОЕНО"
+        "bh_NotBuilt"                                               "НЕ ПОСТРОЕНО"
+
+        // Objective Menu
+        "bh_Overtime"                                               "ДОБ. ВРЕМЯ"
+
+        // Backpack Main
+        "bh_SteamDown"                                              "Steam недоступен ¯\_(ツ)_/¯. Проверьте https://steamstat.us/ для новостей."
+        "bh_GCDown"                                                 "Координатор игры недоступен ¯\_(ツ)_/¯. Проверьте https://steamstat.us/ для новостей."
+    }
+}
